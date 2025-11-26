@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Sarah",
+        "birthyear": 2000
+    },
+
+    {
+        "name": "Eugene",
+        "birthyear": 2006
+    },
+    
+    {
+        "name": "Paul",
+        "birthyear": 2005
+    },
+
+    {
+        "name": "Victor",
+        "birthyear": 1999
+    }
+]
